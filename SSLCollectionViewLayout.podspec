@@ -18,9 +18,4 @@ Pod::Spec.new do |spec|
  
   spec.platform     = :ios, "5.0"
 
-  
-
-  
-
-
 end
