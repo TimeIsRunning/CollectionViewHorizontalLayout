@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SSLCollectionViewLayout"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "横向自定义标签宽度，展示标签数据，支持分区显示，没有分区不要实现分区头部代理"
   spec.description  = <<-DESC
     TODO:这个一个支持分区的可以自定义宽度的标签瀑布流
